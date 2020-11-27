@@ -33,7 +33,7 @@ We plan to focus on the contiguous United States as a geographic region as a lar
 #### **Data Collection** <br/>
 We use a new dataset which shows the latitude and longitude and states of 28,372 cities of the U.S. Using the library Geopanda, we plan to link each home user’s to a city using the nearest neighbor. Then, we will be able to have their respective states and compare it with the weather data set. 
 
-We will use an API from the NOAA (National Oceanic and Atmospheric Administration) to pull weather and climate data from their API. 
+We will use an API from the NOAA (National Oceanic and Atmospheric Administration) to pull weather and climate data from their API. We can pull data by weather station and also pull in the long/latitutude location of the weather station. We have been able to set up the token and request data. We may employ a similar method as with the cities to tie houses to the nearest weather station or, if possible, we can try to get weather by city or by state. 
 
 We will use the holidays package from python to merge holidays onto the date. 
 
