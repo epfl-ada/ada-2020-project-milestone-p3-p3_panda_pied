@@ -17,6 +17,16 @@ https://sim108-data.github.io/our_data_story/
 
 Feel free to check that at your convenience.
 
+**Team Contributions**
+
+We all contributed to equally to writing the data story.
+
+Simon - data processing filter and states, introduction charts, data story web dev expert and owner
+
+Ali - data processing for weather data, holiday analysis, time series charts
+
+Alec - analysis for seasons and weather, looking at statistical tests, pdf charts
+
 ### *Title:*
 
 Mobility over a Long Term Temporal Scale
