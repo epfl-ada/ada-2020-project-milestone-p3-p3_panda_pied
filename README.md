@@ -13,7 +13,7 @@ We called our extension:
 
 Our extensive report is in a data story format in:
 
-https://sim108-data.github.io/our_data_story/
+https://sim108-data.github.io/panda-pied-story/docs/
 
 Feel free to check that at your convenience.
 
